@@ -1,6 +1,7 @@
+import { Button } from "./components/ui/button";
 
 export function App() {
   return (
-    <h1>Hello Word</h1>
+    <Button>ChadcnUI Button</Button>
   )
 }
